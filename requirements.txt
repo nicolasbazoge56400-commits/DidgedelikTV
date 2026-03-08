@@ -1,0 +1,9 @@
+# Python Dependencies for Local LLM Assistant
+
+# Define your required Python packages here
+torch
+transformers
+flask
+numpy
+pandas
+# Add any other dependencies you need for CUDA support.
